@@ -1,2 +1,2 @@
 all:
-	gcc gex.c -o gex -lcurses
+	gcc gex.c -o output/gex -lcurses
