@@ -10,8 +10,13 @@ bugs and suggest new feature use the [issue tracker](issues).
 ## Code contributions
 
 If you have some code which you would like to be merged, then open a
-[pull request](pulls). Please create atomic commits with descriptive
-commit messages.
+[pull request](pulls). 
+
+* See
+  [Documentation/coding_guidelines.md](https://github.com/patrickspencer/gex)
+  before submitting a patch
+* Fork the next branch
+* Make atomic commits with descriptive commit messages.
 
 ## Branches
 
