@@ -1,6 +1,4 @@
-# Gex
-
-Git Explorer
+# Gex - Git Explorer
 
 This is an implemenation of the emacs package
 [Magit](https://github.com/magit/magit) but for the command line. It's based
@@ -19,8 +17,7 @@ Reasons for making this:
 
 ## Contributing
 
-For now, use github for issues and patches. Maybe we'll switch to a mailing
-list later. See [CONTRIBUTING.md](CONTRIBUTING.md).
-
-For now the main repo is at
-[github.com/patrickspencer/gex](https://github.com/patrickspencer/gex).
+The main repo is at
+[github.com/patrickspencer/gex](https://github.com/patrickspencer/gex). For
+now, use github for issues and patches. Maybe we'll switch to a mailing list
+later. See [CONTRIBUTING.md](CONTRIBUTING.md).
